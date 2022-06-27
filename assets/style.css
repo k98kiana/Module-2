@@ -54,6 +54,13 @@ header {
     background-color: rgb(245, 245, 127);
 }
 
+.text {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 55px;
+    color: rgb(194, 194, 193);
+}
+
 #work h2 {
     width: 20%;
     text-align: center;
