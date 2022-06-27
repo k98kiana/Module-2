@@ -1,5 +1,3 @@
-const box = document.getElementById("box");
-    box.addEventListener("mouseover", function handleMouseOver() {
-        box.style.color="blue";
-    });
-
+document.getElementsByClassName("box").addEventListener("mouseover", function(){
+    document.getElementsByClassName("box").style.backgroundColor="blue"
+})
