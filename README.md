@@ -6,3 +6,6 @@ One skill I failed to use thus far would be assigning some of my style preferenc
 
 ![_C__Users_k98ki_Documents_Coding-Bootcamp_Module-2_Module-2_index html](https://user-images.githubusercontent.com/105411392/176073458-7d343dca-70c7-42d6-b767-2e1b65710fa6.png)
 
+![image](https://user-images.githubusercontent.com/105411392/176073707-ec9515c2-aedb-4266-b9c2-1f2c13170b6b.png)
+
+
